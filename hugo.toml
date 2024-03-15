@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+languageCode = 'fr-fr'
+title = 'La chapelle Saint Grégoire au Havre'
+theme = 'ananke'
