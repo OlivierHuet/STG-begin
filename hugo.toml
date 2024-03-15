@@ -1,4 +1,4 @@
-baseURL = 'https://olivierhuet.github.io/STG-begin/'
+baseURL = '/STG-begin/'
 languageCode = 'fr-fr'
 title = 'La chapelle Saint Grégoire au Havre'
 

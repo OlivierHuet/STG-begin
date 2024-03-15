@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on La chapelle Saint Grégoire au Havre</title>
-    <link>http://localhost:1313/post/</link>
+    <link>//localhost:1313///STG-begin/post/</link>
     <description>Recent content in Posts on La chapelle Saint Grégoire au Havre</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <lastBuildDate>Fri, 15 Mar 2024 15:24:23 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313///STG-begin/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Debut</title>
-      <link>http://localhost:1313/post/debut/</link>
+      <link>//localhost:1313///STG-begin/post/debut/</link>
       <pubDate>Fri, 15 Mar 2024 15:24:23 +0100</pubDate>
-      <guid>http://localhost:1313/post/debut/</guid>
+      <guid>//localhost:1313///STG-begin/post/debut/</guid>
       <description>Introduction this is bold text and this is emphasized text.&#xA;visit the hugo web site !</description>
     </item>
   </channel>
